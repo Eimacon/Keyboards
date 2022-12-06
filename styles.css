@@ -1,13 +1,13 @@
 body{
     margin: 0;
-    background: #000000;
+    background: #e7e5df;
     text-align: center;
 }
  p{
-    color: #ffffff !important;
+    color: #000000 !important;
   }
   h1{
-    color: #ffffff !important;
+    color: #000000 !important;
   }
 .p1{
   font: bold; 
